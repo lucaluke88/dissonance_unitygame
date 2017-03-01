@@ -1,2 +1,2 @@
 # dissonance_unitygame
-A simple story-driven game developed with Unity Fungas module
+A "rage quit" visual novel developed with Unity Fungas module
